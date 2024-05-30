@@ -36,10 +36,10 @@ Usage
           Use the filter dropdown to view all tasks, only completed tasks, or only active tasks.
 
 Project Structure
-    src/App.js: Main application component that integrates the To-Do List.
-    src/TodoList.js: Core functionality of the To-Do List component.
-    src/TodoList.css: CSS styling for the To-Do List component.
-    src/App.css: Global CSS styling including background color.
+    1. src/App.js: Main application component that integrates the To-Do List.
+    2. src/TodoList.js: Core functionality of the To-Do List component.
+    3. src/TodoList.css: CSS styling for the To-Do List component.
+    4. src/App.css: Global CSS styling including background color.
 
 
 
